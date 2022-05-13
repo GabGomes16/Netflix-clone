@@ -1,2 +1,5 @@
-# Netflix-clone
-Repósitório criado para alterar um site clone da Netflix ao meu gosto. Projeto proposto pelo curso que participei na https://www.dio.me/
+# Netflix-clone -> Minewix
+Desafio de projeto da DIO de clone da Netflix
+## Adaptações
+* De Netflix-clone para Minewix.
+* Os items do carrosel encaminham para sites ou modais com diferentes funcionalidades.
